@@ -1,0 +1,10 @@
+
+ul li {
+    float:left;
+    margin: 0.7rem 0.5rem
+}
+
+.playAgain{
+    display: none;
+}
+
